@@ -7,7 +7,7 @@ Yew's `html!` macro parses its JSX-like syntax.
 
 ## Links
 - MDN WebAssembly specifications and documentation <[https://developer.mozilla.org/en-US/docs/WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)>
-- Trunk, a WASM build tool, bundler and development server for Rust <(https://trunkrs.dev/)[https://trunkrs.dev/)>
+- Trunk, a WASM build tool, bundler and development server for Rust <[https://trunkrs.dev/](https://trunkrs.dev/)>
 - Yew, a React-like framework for Rust WASM <[https://yew.rs/](https://yew.rs/)>
 - WebTUI, an awesome set of CSS <[https://webtui.ironclad.sh/](https://webtui.ironclad.sh/)>
 
