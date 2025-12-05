@@ -1,0 +1,12 @@
+{
+	"name": "hello",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": { },
+	"devDependencies": { },
+	"dependencies": {
+		"@webtui/css": "^0.1.5",
+		"@webtui/theme-catppuccin": "^0.0.3"
+	}
+}
